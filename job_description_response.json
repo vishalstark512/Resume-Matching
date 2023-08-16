@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "62d1605026380b51d3762637"
+  },
+  "location": "AAAAAAAAA (AAAAAAAAAAAAAA, AAAAAAAAAAAAA, BELGIUM)",
+  "title": "Business Analyst Customer Service",
+  "organisation": "AAAAAAAAAAAAAA",
+  "description": "The two former companies AAAAAAA and AAAAAAA have merged their processes and software for AAAAAAAA into 1 process in 1 AAAAAAA system. In order to optimize our systems and implement a number of requested legal changes, we are looking for an analyst to lead and support the Premiums project that has been set up. Together with the project leader and fellow analysts, you ensure a successful implementation of these projects.\nAs a functional analyst, you ensure high-quality and coherent processes by analyzing new and changed processes, initiating proposals for adaptation and by optimizing in the context of an integration of these processes in the existing process structure\no Together with business and ICT you make an analysis of the proposed improvements and new needs.\no Write out use cases and discuss them with users and ICT. These use cases are the basis for ICT developments, extending UAT testing and drawing up training and user manuals\no Supervising testing and testing yourself\no Providing training or supporting trainers\no Training key users for further maintenance and testing of the S4Hana system\no Developing processes and drawing up process documentation in collaboration with business and ICT",
+  "specific_skills": [
+    {
+      "title": "Demonstrated experience within the Belgian energy sector",
+      "weigth": "Should have"
+    },
+    {
+      "title": "Demonstrated experience with writing processes and instructions",
+      "weigth": "Should have"
+    },
+    {
+      "title": "Demonstrated experience with SAP",
+      "weigth": "Should have"
+    },
+    {
+      "title": "Demonstrated experience in training end users",
+      "weigth": "Nice to have"
+    },
+    {
+      "title": "Candidate adds a document showing demonstrable experience working on large, complex projects",
+      "weigth": "Nice to have"
+    }
+  ],
+  "sector_skills": [
+    {
+      "title": "Demonstrated experience as a business analyst in a similar environment.",
+      "weigth": "Must have"
+    },
+    {
+      "title": "Demonstrated experience with business process development and optimization (BPM)",
+      "weigth": "Must have"
+    },
+    {
+      "title": "Demonstrated experience with stakeholder management",
+      "weigth": "Must have"
+    }
+  ]
+}]
